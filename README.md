@@ -1,4 +1,4 @@
-# Awesome Cyber Cecurity
+# Awesome Cyber Security
 A curated list of cyber security resources and tools. 
 
 ## Awesome lists
