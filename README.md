@@ -32,3 +32,46 @@ A curated list of cyber security resources and tools.
 * [End user device (EUD) security guidance](https://www.ncsc.gov.uk/collection/end-user-device-security/) - Guidance for organisations deploying a range of end user device platforms as part of a remote working solution
 
 * [Políticas de seguridad para la pyme](https://www.incibe.es/protege-tu-empresa/herramientas/politicas) - Para ayudar a la pyme a poner en marcha los procesos internos con los que mejorar su ciberseguridad presentamos una serie de documentos que hemos denominado como «políticas de seguridad».
+
+## Lits of cyber security resources
+
+* [50+ Cybersecurity Resources](https://darkcubed.com/cybersecurity-resources) - Dark Cubed’s cybersecurity resources page provides links to dozens of 100% free resources you can use for your own business or for your customers.
+
+* [SANS](https://www.sans.org/security-resources/) - The most trusted source for cyber security training, certification, and research.
+
+* [The Uber List of Cybersecurity Resources](https://www.cyberdegrees.org/resources/the-big-list/) - We’ve subtitled this list: “Everything you want to know about cyber security and are too tired to search for.” Whatever you may be interested in — from DEF CON to SANS — you will find on this page.
+
+* [Cybersecurity resource center](https://cybersecurityguide.org/resources/) - This guide is intended to provide actionable resources for everyone looking to learn more about the field.
+
+* [US Homeland Security - Cybersecurity Resources](https://www.dhs.gov/science-and-technology/cybersecurity-resources) - DHS Science and Technology Directorate (S&T) published documents and other cybersecurity references and links can be found on this page.
+
+* []() - .
+
+* []() - .
+
+* []() - .
+
+* []() - .
+
+* []() - .
+
+* []() - .
+
+* []() - .
+
+* []() - .
+
+* []() - .
+
+* []() - .
+
+* []() - .
+
+* []() - .
+
+* []() - .
+
+* []() - .
+
+* []() - .
+
