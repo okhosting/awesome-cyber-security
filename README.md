@@ -15,7 +15,7 @@ A curated list of cyber security resources and tools.
 
 * [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of awesome Threat Intelligence resources.
 
-* [awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) -  collection of awesome security hardening guides, best practices, checklists, benchmarks, tools and other resources. This is work in progress: please contribute by sending your suggestions. 
+* [awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) -  collection of awesome security hardening guides, best practices, checklists, benchmarks, tools and other resources.
 
 * [Awesome Cyber Security](https://github.com/fabionoth/awesome-cyber-security) - A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
 
@@ -56,23 +56,17 @@ A curated list of cyber security resources and tools.
 
 * [Cybersecurity Related Websites](https://www.csiac.org/resources/cybersecurity-related-websites/) - The listing of related sites provide additional sources to pursue the topic of Cybersecurity. The sites include Government organizations, including federal agencies, Department of Defense and military service agencies, commercial organizations, and academic institutions.
 
-* []() - .
+* [COMPUTER SECURITY RESOURCE CENTER](https://csrc.nist.gov/) - For 20 years, the Computer Security Resource Center (CSRC) has provided access to NIST's cybersecurity- and information security-related projects, publications, news and events.   CSRC supports stakeholders in government, industry and academia—both in the U.S. and internationally.
 
-* []() - .
+* [Secureworks Resources & Research](https://www.secureworks.com/resources) - Cybersecurity thought leadership resources & Counter Threat Unit™ research.
 
-* []() - .
+* [IEEE](https://innovationatwork.ieee.org/cyber-security/) - IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
 
-* []() - .
+* [The best resources to learn cybersecurity online in 2021](https://www.mygreatlearning.com/blog/the-best-resources-to-learn-cybersecurity-online/) - his list of free and paid cybersecurity resources, courses, books, blogs, tools and cheat codes will help both freshers and professionals to stay updated.
 
-* []() - .
+* [Sifma Cybersecurity Resources](https://www.sifma.org/resources/cybersecurity-resources/) - Here are resources for the financial industry to address critical cyber threats and improve the industry’s overall cybersecurity.
 
-* []() - .
+* [Internet Safety 101SM](https://internetsafety101.org/CyberSecurityResources) - Internet Safety 101SM is a digitally-based internet safety resource designed to educate, equip and empower parents, educators and other adults with the knowledge and resources needed to protect children from Internet dangers including pornography, predators, cyberbullies and threats related to online gaming, social networking and mobile devices.
 
-* []() - .
-
-* []() - .
-
-* []() - .
-
-* []() - .
+* [vnaya - Cybersecurity For Your Kids](https://www.vnaya.com/these-top-educational-cyber-security-resources-will-help-your-kids-to-stay-safe-from-cyber-crime/) - These Top Educational Cyber Security Resources Will Help Your Kids To Stay Safe From Cyber Crime.
 
