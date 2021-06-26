@@ -73,7 +73,7 @@ A curated list of cyber security resources and tools.
 ## Contributions welcome
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
 
-## Checkout also
+## Check out also
 
 * [Awesome Storage](https://github.com/okhosting/awesome-storage/) - A curated list of storage open source tools. Backups, redundancy, sharing, distribution, encryption, etc.
 
