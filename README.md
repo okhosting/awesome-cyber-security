@@ -25,6 +25,32 @@ A curated list of cyber security resources and tools.
 
 * [NHS Digital Cyber Alerts](https://digital.nhs.uk/cyber-alerts) - We issue cyber security alert notifications to health and care organisations, ranging from weekly threat bulletins to immediate high-severity alerts.
 
+* [cve-search](https://cve.circl.lu/) - cve-search is accessible via a web interface and an HTTP API. cve-search is an interface to search publicly known information from security vulnerabilities in software and hardware along with their corresponding exposures.
+
+* [VULDB](https://vuldb.com/?) - Number one vulnerability database documenting and explaining security vulnerabilities, threats, and exploits since 1970.
+
+* [The Exploit Database](https://www.exploit-db.com/) - The Exploit Database is maintained by Offensive Security, an information security training company that provides various Information Security Certifications as well as high end penetration testing services.
+
+* [0day.today](https://en.0day.today/) - 0day.today - Biggest Exploits Database and 0day market - The Underground, is one of the world's most popular and comprehensive computer security web sites.
+
+* [RAPID7](https://www.rapid7.com/db/) - A curated repository of vetted computer software exploits and exploitable vulnerabilities.
+
+* [National Vulnerability Database](https://nvd.nist.gov/vuln/search) - The NVD is the U.S. government repository of standards based vulnerability management data represented using the Security Content Automation Protocol (SCAP).
+
+* [CXSecurity](https://cxsecurity.com/exploit/) - (WLB2) World Laboratory of Bugtraq is a huge collection of information on data communications safety. Its main objective is to inform about errors in various applications.
+
+* [China National Vulnerability Database (CNNVD)](http://www.cnnvd.org.cn/) - Chinese government-run vulnerability database analoguous to the United States’s CVE database hosted by Mitre Corporation.
+
+* [Vulnerability Assessment Platform](https://vulners.com/) - Largest correlated database of vulnerabilities and exploits
+
+* [GitHub Advisory Database](https://github.com/advisories/) - The latest security vulnerabilities from the world of open source software.
+
+* [OSV](https://osv.dev/) - OSV is a vulnerability database and triage infrastructure for open source projects aimed at helping both open source maintainers and consumers of open source.
+
+* [Snyk Vulnerability DB](https://snyk.io/vuln/) - Detailed information and remediation guidance for known vulnerabilities.
+
+* [Vulnerability Notes Database](https://www.kb.cert.org/vuls/) - The Vulnerability Notes Database provides information about software vulnerabilities. Vulnerability notes include summaries, technical details, remediation information, and lists of affected vendors.
+
 ## Security advice and guidance
 
 * [The National Cyber Security Centre](https://www.ncsc.gov.uk/section/advice-guidance/all-topics) - Helping to make the UK the safest place to live and work online.
