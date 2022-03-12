@@ -53,6 +53,8 @@ A curated list of cyber security resources and tools.
 
 * [Vulnerability Notes Database](https://www.kb.cert.org/vuls/) - The Vulnerability Notes Database provides information about software vulnerabilities. Vulnerability notes include summaries, technical details, remediation information, and lists of affected vendors.
 
+* [Intelligence X](https://intelx.io/) - Intelligence X is a search engine and data archive. The company is based in Prague, Czech Republic. Its mission is to develop and maintain the search engine and data archive.
+
 ## Security advice and guidance
 
 * [The National Cyber Security Centre](https://www.ncsc.gov.uk/section/advice-guidance/all-topics) - Helping to make the UK the safest place to live and work online.
