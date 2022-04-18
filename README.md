@@ -98,6 +98,8 @@ A curated list of cyber security resources and tools.
 
 * [Internet Safety 101SM](https://internetsafety101.org/CyberSecurityResources) - Internet Safety 101SM is a digitally-based internet safety resource designed to educate, equip and empower parents, educators and other adults with the knowledge and resources needed to protect children from Internet dangers including pornography, predators, cyberbullies and threats related to online gaming, social networking and mobile devices.
 
+* [Security Acronyms](https://github.com/cloudsecurelab/security-acronyms) - Curated list of security related acronyms and terms.
+
 * [vnaya - Cybersecurity For Your Kids](https://www.vnaya.com/these-top-educational-cyber-security-resources-will-help-your-kids-to-stay-safe-from-cyber-crime/) - These Top Educational Cyber Security Resources Will Help Your Kids To Stay Safe From Cyber Crime.
 
 ## Contributions welcome
