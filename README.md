@@ -150,7 +150,7 @@ If you wish to contribute to this list, just fork, make your changes and send me
 - [HackerSploit](https://hackersploit.org/)
 - [Practical DevSecOps](https://www.practical-devsecops.com/)
 - https://www.tracelabs.org/
-- https://www.hacksplaining.com/ - web security 
+- https://www.hacksplaining.com
 
 ## Certifications
 - [Security Certification Roadmap - Paul Jerimy Media](https://pauljerimy.com/security-certification-roadmap/)
