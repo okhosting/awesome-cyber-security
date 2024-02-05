@@ -109,3 +109,50 @@ If you wish to contribute to this list, just fork, make your changes and send me
 
 * [Awesome Storage](https://github.com/okhosting/awesome-storage/) - A curated list of storage open source tools. Backups, redundancy, sharing, distribution, encryption, etc.
 
+## Platforms to learn cyber security
+- [TryHackMe](https://tryhackme.com)
+- [Hackthebox](https://hackthebox.com)
+- Blueteamlabs
+- overthewire.org
+- cyberdefenders
+- the xss rat
+- ine
+- [Cybersecurity roadmap](https://roadmap.sh/cyber-security)
+- Cybrary
+- [PortSwigger](https://portswigger.net/web-security)
+- Vulnhub
+- root-me.org
+- picoctf
+- pwntilldawn0
+- hackthissite
+- hackforums
+- ctf az
+- [TCM academy](https://academy.tcm-sec.com/)
+- [Hacking Articles - Raj Chandel's Blog](https://www.hackingarticles.in/)
+- [Active Directory Security](https://adsecurity.org/)
+- [HackTricks](https://book.hacktricks.xyz/welcome/readme) 
+- hadess.io 
+- [Home | RedTeamRecipe](https://redteamrecipe.com/) 
+- [PentesterLab](https://pentesterlab.com/)
+- [LetsDefend](https://letsdefend.io/)
+- [SECURITY BLUE TEAM](https://securityblue.team/training/) 
+- [The Red Canary Blog](https://redcanary.com/blog/) 
+- [Explore Atomic Red Team](https://atomicredteam.io/)
+- [Projectdiscovery.io](https://chaos.projectdiscovery.io/#/)
+- [BugBountyHunting.com](https://www.bugbountyhunting.com/)
+- [Bug Bounty Guide](https://bugbountyguide.org/)
+- [Pentester Land](https://pentester.land/)
+- isc2
+- vulnmachines 
+- [Purple Academy | picussecurity.com](https://academy.picussecurity.com/start)
+- [OPSWAT Academy](https://learn.opswatacademy.com/certifications)
+- [APIsec University](https://www.apisecuniversity.com/)
+- [HackerSploit](https://hackersploit.org/)
+- [Practical DevSecOps](https://www.practical-devsecops.com/)
+- https://www.tracelabs.org/
+- https://www.hacksplaining.com
+
+## Certifications
+- [Security Certification Roadmap - Paul Jerimy Media](https://pauljerimy.com/security-certification-roadmap/)
+
+
