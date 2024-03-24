@@ -149,8 +149,9 @@ If you wish to contribute to this list, just fork, make your changes and send me
 - [APIsec University](https://www.apisecuniversity.com/)
 - [HackerSploit](https://hackersploit.org/)
 - [Practical DevSecOps](https://www.practical-devsecops.com/)
-- https://www.tracelabs.org/
-- https://www.hacksplaining.com
+- [Tracelabs](https://www.tracelabs.org/)
+- [Hacksplaining](https://www.hacksplaining.com)
+- [DarkRelay Security Labs](https://www.darkrelay.com)
 
 ## Certifications
 - [Security Certification Roadmap - Paul Jerimy Media](https://pauljerimy.com/security-certification-roadmap/)
