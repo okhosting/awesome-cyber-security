@@ -102,13 +102,6 @@ A curated list of cyber security resources and tools.
 
 * [vnaya - Cybersecurity For Your Kids](https://www.vnaya.com/these-top-educational-cyber-security-resources-will-help-your-kids-to-stay-safe-from-cyber-crime/) - These Top Educational Cyber Security Resources Will Help Your Kids To Stay Safe From Cyber Crime.
 
-## Contributions welcome
-If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
-
-## Check out also
-
-* [Awesome Storage](https://github.com/okhosting/awesome-storage/) - A curated list of storage open source tools. Backups, redundancy, sharing, distribution, encryption, etc.
-
 ## Platforms to learn cyber security
 - [TryHackMe](https://tryhackme.com)
 - [Hackthebox](https://hackthebox.com)
@@ -157,3 +150,9 @@ If you wish to contribute to this list, just fork, make your changes and send me
 - [Security Certification Roadmap - Paul Jerimy Media](https://pauljerimy.com/security-certification-roadmap/)
 
 
+## Contributions welcome
+If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
+
+## Check out also
+
+* [Awesome Storage](https://github.com/okhosting/awesome-storage/) - A curated list of storage open source tools. Backups, redundancy, sharing, distribution, encryption, etc.
