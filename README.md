@@ -124,19 +124,19 @@ A curated list of cyber security resources and tools.
 ## Platforms to learn cyber security
 - [TryHackMe](https://tryhackme.com)
 - [Hackthebox](https://hackthebox.com)
-- Blueteamlabs
-- overthewire.org
-- cyberdefenders
+- [Blueteamlabs](https://blueteamlabs.online)
+- [overthewire](https://overthewire.org)
+- [cyberdefenders](https://cyberdefenders.org)
 - the xss rat
-- ine
+- [ine](https://ine.com)
 - [Cybersecurity roadmap](https://roadmap.sh/cyber-security)
-- Cybrary
+- [Cybrary](https://www.cybrary.it)
 - [PortSwigger](https://portswigger.net/web-security)
-- Vulnhub
-- root-me.org
-- picoctf
+- [Vulnhub](https://www.vulnhub.com)
+- [root-me](https://www.root-me.org)
+- [picoctf](https://picoctf.org)
 - pwntilldawn0
-- hackthissite
+- [hackthissite](https://www.hackthissite.org)
 - hackforums
 - ctf az
 - [TCM academy](https://academy.tcm-sec.com/)
@@ -154,8 +154,8 @@ A curated list of cyber security resources and tools.
 - [BugBountyHunting.com](https://www.bugbountyhunting.com/)
 - [Bug Bounty Guide](https://bugbountyguide.org/)
 - [Pentester Land](https://pentester.land/)
-- isc2
-- vulnmachines 
+- [isc2](https://www.isc2.org)
+- [vulnmachines](https://www.vulnmachines.com/)
 - [Purple Academy | picussecurity.com](https://academy.picussecurity.com/start)
 - [OPSWAT Academy](https://learn.opswatacademy.com/certifications)
 - [APIsec University](https://www.apisecuniversity.com/)
