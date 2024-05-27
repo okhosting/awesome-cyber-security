@@ -102,22 +102,41 @@ A curated list of cyber security resources and tools.
 
 * [vnaya - Cybersecurity For Your Kids](https://www.vnaya.com/these-top-educational-cyber-security-resources-will-help-your-kids-to-stay-safe-from-cyber-crime/) - These Top Educational Cyber Security Resources Will Help Your Kids To Stay Safe From Cyber Crime.
 
+## Must Read
+- [RTFM: Red Team Field Manual v2](https://amzn.to/3IZXVj2) by Ben Clark, Nick Downer 
+- [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](https://amzn.to/3F5H9xT) by Dafydd Stuttard, and Marcus Pinto
+- [The Hacker Playbook 3: Practical Guide To Penetration Testing](https://amzn.to/3mwdDLt) by Peter Kim
+- [Bug Bounty Bootcamp](https://amzn.to/3l1a8fn) by Vickie Li
+- [Black Hat Python](https://amzn.to/3T3a4Zd) by Justin Seitz and Tim Arnold
+- [Black Hat Go](https://amzn.to/3mvzh2f) by Tom Steele, Chris Patten, and Dan Kottmann
+  
+## Fundamental Books
+- [Ethical Hacking](https://amzn.to/41TLu12) by Daniel G. Graham
+- [Foundations of Information Security](https://amzn.to/41VOPga) by Jason Andress
+- [Penetration Testing](https://amzn.to/3mweg7N) by Georgia Weidman
+- [Metasploit](https://amzn.to/3Zq362M) by David Kennedy, Jim O’Gorman, Devon Kearns, and Mati Aharoni
+- [The Tangled Web: A Guide to Securing Modern Web Applications](https://amzn.to/3yhgv14) by Michal Zalewski
+  
+## Web Hacking & Bug Bounty
+- [Hacking APIs](https://amzn.to/3F3M1Dw) by Corey Ball
+- [Real-World Bug Hunting](https://amzn.to/3ZLqc3F) by Peter Yaworski
+
 ## Platforms to learn cyber security
 - [TryHackMe](https://tryhackme.com)
 - [Hackthebox](https://hackthebox.com)
-- Blueteamlabs
-- overthewire.org
-- cyberdefenders
+- [Blueteamlabs](https://blueteamlabs.online)
+- [overthewire](https://overthewire.org)
+- [cyberdefenders](https://cyberdefenders.org)
 - the xss rat
-- ine
+- [ine](https://ine.com)
 - [Cybersecurity roadmap](https://roadmap.sh/cyber-security)
-- Cybrary
+- [Cybrary](https://www.cybrary.it)
 - [PortSwigger](https://portswigger.net/web-security)
-- Vulnhub
-- root-me.org
-- picoctf
+- [Vulnhub](https://www.vulnhub.com)
+- [root-me](https://www.root-me.org)
+- [picoctf](https://picoctf.org)
 - pwntilldawn0
-- hackthissite
+- [hackthissite](https://www.hackthissite.org)
 - hackforums
 - ctf az
 - [TCM academy](https://academy.tcm-sec.com/)
@@ -135,8 +154,8 @@ A curated list of cyber security resources and tools.
 - [BugBountyHunting.com](https://www.bugbountyhunting.com/)
 - [Bug Bounty Guide](https://bugbountyguide.org/)
 - [Pentester Land](https://pentester.land/)
-- isc2
-- vulnmachines 
+- [isc2](https://www.isc2.org)
+- [vulnmachines](https://www.vulnmachines.com/)
 - [Purple Academy | picussecurity.com](https://academy.picussecurity.com/start)
 - [OPSWAT Academy](https://learn.opswatacademy.com/certifications)
 - [APIsec University](https://www.apisecuniversity.com/)
