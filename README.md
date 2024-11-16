@@ -165,6 +165,7 @@ A curated list of cyber security resources and tools.
 - [Tracelabs](https://www.tracelabs.org/)
 - [Hacksplaining](https://www.hacksplaining.com)
 - [DarkRelay Security Labs](https://www.darkrelay.com)
+- [CyberPython](https://pythoncyber.go.ro)
 
 ## Certifications
 - [Security Certification Roadmap - Paul Jerimy Media](https://pauljerimy.com/security-certification-roadmap/)
