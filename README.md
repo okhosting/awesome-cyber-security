@@ -52,6 +52,8 @@ A curated list of cyber security resources and tools.
 * [Snyk Vulnerability DB](https://snyk.io/vuln/) - Detailed information and remediation guidance for known vulnerabilities.
 
 * [Vulnerability Notes Database](https://www.kb.cert.org/vuls/) - The Vulnerability Notes Database provides information about software vulnerabilities. Vulnerability notes include summaries, technical details, remediation information, and lists of affected vendors.
+  
+* [Vulert Vulnerability DB](https://vulert.com/vuln-db) - Vulert's vulnerability database lists recent security issues found in open-source packages for languages like PHP, Java, Python, Node.js, and others.
 
 * [Intelligence X](https://intelx.io/) - Intelligence X is a search engine and data archive. The company is based in Prague, Czech Republic. Its mission is to develop and maintain the search engine and data archive.
 * [Stellastra TLS Cipher Suite Database](https://stellastra.com/cipher-suite) - List of hundreds of TLS cipher suites alongside their security rating and vulnerability/deprecation status. 
