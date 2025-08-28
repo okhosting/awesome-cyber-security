@@ -127,6 +127,7 @@ A curated list of cyber security resources and tools.
 - [Real-World Bug Hunting](https://amzn.to/3ZLqc3F) by Peter Yaworski
 
 ## Platforms to learn cyber security
+- [LabEx Cybersecurity Labs](https://labex.io/learn/cybersecurity)
 - [TryHackMe](https://tryhackme.com)
 - [Hackthebox](https://hackthebox.com)
 - [Blueteamlabs](https://blueteamlabs.online)
