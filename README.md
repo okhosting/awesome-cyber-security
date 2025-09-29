@@ -134,7 +134,7 @@ A curated list of cyber security resources and tools.
 * [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) - Application Security Verification Standard for defining security requirements.
 * [OWASP MASVS](https://owasp.org/www-project-mobile-application-security/) - Mobile Application Security Verification Standard.
 * [OWASP SAMM](https://owasp.org/www-project-samm/) - Software Assurance Maturity Model for building a security program.
-* [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-llm/) - Risks and guidance for applications using large language models.
+* [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) - Risks and guidance for applications using large language models.
 * [OWASP Web Security Testing Guide (WSTG)](https://owasp.org/www-project-web-security-testing-guide/) - Comprehensive guide to web app security testing.
 * [OWASP Mobile Security Testing Guide (MSTG)](https://owasp.org/www-project-mobile-security-testing-guide/) - Guide for testing mobile applications.
 * [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) - Pragmatic checklists and best practices for secure development.
