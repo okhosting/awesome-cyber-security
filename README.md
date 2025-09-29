@@ -154,7 +154,7 @@ A curated list of cyber security resources and tools.
 * [Blueteamlabs](https://blueteamlabs.online)
 * [overthewire](https://overthewire.org)
 * [cyberdefenders](https://cyberdefenders.org)
-* the xss rat
+* [The XSS Rat](https://thexssrat.com)
 * [ine](https://ine.com)
 * [Cybersecurity roadmap](https://roadmap.sh/cyber-security)
 * [Cybrary](https://www.cybrary.it)
