@@ -66,7 +66,7 @@ A curated list of cyber security resources and tools.
 
 * [Políticas de seguridad para la pyme](https://www.incibe.es/protege-tu-empresa/herramientas/politicas) - Para ayudar a la pyme a poner en marcha los procesos internos con los que mejorar su ciberseguridad presentamos una serie de documentos que hemos denominado como «políticas de seguridad».
 
-## Lits of cyber security resources
+## Lists of cyber security resources
 
 * [50+ Cybersecurity Resources](https://darkcubed.com/cybersecurity-resources) - Dark Cubed’s cybersecurity resources page provides links to dozens of 100% free resources you can use for your own business or for your customers.
 
@@ -126,58 +126,82 @@ A curated list of cyber security resources and tools.
 - [Hacking APIs](https://amzn.to/3F3M1Dw) by Corey Ball
 - [Real-World Bug Hunting](https://amzn.to/3ZLqc3F) by Peter Yaworski
 
+## Secure Software Development (OWASP)
+
+* [OWASP Top 10](https://owasp.org/Top10/) - The most critical security risks to web applications.
+* [OWASP API Security Top 10](https://owasp.org/API-Security/) - The top risks specific to API security.
+* [OWASP Mobile Top 10](https://owasp.org/www-project-mobile-top-10/) - Common security risks for mobile apps.
+* [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) - Application Security Verification Standard for defining security requirements.
+* [OWASP MASVS](https://owasp.org/www-project-mobile-application-security/) - Mobile Application Security Verification Standard.
+* [OWASP SAMM](https://owasp.org/www-project-samm/) - Software Assurance Maturity Model for building a security program.
+* [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) - Risks and guidance for applications using large language models.
+* [OWASP Web Security Testing Guide (WSTG)](https://owasp.org/www-project-web-security-testing-guide/) - Comprehensive guide to web app security testing.
+* [OWASP Mobile Security Testing Guide (MSTG)](https://owasp.org/www-project-mobile-security-testing-guide/) - Guide for testing mobile applications.
+* [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) - Pragmatic checklists and best practices for secure development.
+* [OWASP ZAP](https://www.zaproxy.org/) - Integrated penetration testing tool for finding vulnerabilities in web apps.
+* [OWASP Dependency-Check](https://jeremylong.github.io/DependencyCheck/) - Software Composition Analysis (SCA) to find vulnerable dependencies.
+* [CycloneDX](https://cyclonedx.org/) - SBOM standard for software supply chain transparency.
+* [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/) - Threat modeling tool for diagramming and tracking threats.
+* [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) - Intentionally insecure web app for security training.
+* [OWASP WebGoat](https://owasp.org/www-project-webgoat/) - Deliberately insecure web application maintained by OWASP.
+* [OWASP Security Shepherd](https://owasp.org/www-project-security-shepherd/) - Training platform for learning and practicing application security.
+
 ## Platforms to learn cyber security
-- [LabEx Cybersecurity Labs](https://labex.io/learn/cybersecurity)
-- [TryHackMe](https://tryhackme.com)
-- [Hackthebox](https://hackthebox.com)
-- [Blueteamlabs](https://blueteamlabs.online)
-- [overthewire](https://overthewire.org)
-- [cyberdefenders](https://cyberdefenders.org)
-- the xss rat
-- [ine](https://ine.com)
-- [Cybersecurity roadmap](https://roadmap.sh/cyber-security)
-- [Cybrary](https://www.cybrary.it)
-- [PortSwigger](https://portswigger.net/web-security)
-- [Vulnhub](https://www.vulnhub.com)
-- [root-me](https://www.root-me.org)
-- [picoctf](https://picoctf.org)
-- pwntilldawn0
-- [hackthissite](https://www.hackthissite.org)
-- hackforums
-- ctf az
-- [TCM academy](https://academy.tcm-sec.com/)
-- [Hacking Articles - Raj Chandel's Blog](https://www.hackingarticles.in/)
-- [Active Directory Security](https://adsecurity.org/)
-- [HackTricks](https://book.hacktricks.xyz/welcome/readme) 
-- hadess.io 
-- [Home | RedTeamRecipe](https://redteamrecipe.com/) 
-- [PentesterLab](https://pentesterlab.com/)
-- [LetsDefend](https://letsdefend.io/)
-- [SECURITY BLUE TEAM](https://securityblue.team/training/) 
-- [The Red Canary Blog](https://redcanary.com/blog/) 
-- [Explore Atomic Red Team](https://atomicredteam.io/)
-- [Projectdiscovery.io](https://chaos.projectdiscovery.io/#/)
-- [BugBountyHunting.com](https://www.bugbountyhunting.com/)
-- [Bug Bounty Guide](https://bugbountyguide.org/)
-- [Pentester Land](https://pentester.land/)
-- [isc2](https://www.isc2.org)
-- [vulnmachines](https://www.vulnmachines.com/)
-- [Purple Academy | picussecurity.com](https://academy.picussecurity.com/start)
-- [OPSWAT Academy](https://learn.opswatacademy.com/certifications)
-- [APIsec University](https://www.apisecuniversity.com/)
-- [HackerSploit](https://hackersploit.org/)
-- [Practical DevSecOps](https://www.practical-devsecops.com/)
-- [Tracelabs](https://www.tracelabs.org/)
-- [Hacksplaining](https://www.hacksplaining.com)
-- [DarkRelay Security Labs](https://www.darkrelay.com)
-- [CyberPython](https://pythoncyber.go.ro)
-- [SOCLabs-SIEM Exercise](https://www.soc-labs.top/)
+
+* [LabEx Cybersecurity Labs](https://labex.io/learn/cybersecurity)
+* [TryHackMe](https://tryhackme.com)
+* [Hackthebox](https://hackthebox.com)
+* [Blueteamlabs](https://blueteamlabs.online)
+* [overthewire](https://overthewire.org)
+* [cyberdefenders](https://cyberdefenders.org)
+* [The XSS Rat](https://thexssrat.com)
+* [ine](https://ine.com)
+* [Cybersecurity roadmap](https://roadmap.sh/cyber-security)
+* [Cybrary](https://www.cybrary.it)
+* [PortSwigger](https://portswigger.net/web-security)
+* [Vulnhub](https://www.vulnhub.com)
+* [root-me](https://www.root-me.org)
+* [picoctf](https://picoctf.org)
+* pwntilldawn0
+* [hackthissite](https://www.hackthissite.org)
+* hackforums
+* ctf az
+* [TCM academy](https://academy.tcm-sec.com/)
+* [Hacking Articles - Raj Chandel's Blog](https://www.hackingarticles.in/)
+* [Active Directory Security](https://adsecurity.org/)
+* [HackTricks](https://book.hacktricks.xyz/welcome/readme)
+* hadess.io
+* [Home | RedTeamRecipe](https://redteamrecipe.com/)
+* [PentesterLab](https://pentesterlab.com/)
+* [LetsDefend](https://letsdefend.io/)
+* [SECURITY BLUE TEAM](https://securityblue.team/training/)
+* [The Red Canary Blog](https://redcanary.com/blog/)
+* [Explore Atomic Red Team](https://atomicredteam.io/)
+* [Projectdiscovery.io](https://chaos.projectdiscovery.io/#/)
+* [BugBountyHunting.com](https://www.bugbountyhunting.com/)
+* [Bug Bounty Guide](https://bugbountyguide.org/)
+* [Pentester Land](https://pentester.land/)
+* [isc2](https://www.isc2.org)
+* [vulnmachines](https://www.vulnmachines.com/)
+* [Purple Academy | picussecurity.com](https://academy.picussecurity.com/start)
+* [OPSWAT Academy](https://learn.opswatacademy.com/certifications)
+* [APIsec University](https://www.apisecuniversity.com/)
+* [HackerSploit](https://hackersploit.org/)
+* [Practical DevSecOps](https://www.practical-devsecops.com/)
+* [Tracelabs](https://www.tracelabs.org/)
+* [Hacksplaining](https://www.hacksplaining.com)
+* [DarkRelay Security Labs](https://www.darkrelay.com)
+* [CyberPython](https://pythoncyber.go.ro)
+* [SOCLabs-SIEM Exercise](https://www.soc-labs.top/)
 
 ## Certifications
-- [Security Certification Roadmap - Paul Jerimy Media](https://pauljerimy.com/security-certification-roadmap/)
+
+* [Security Certification Roadmap - Paul Jerimy Media](https://pauljerimy.com/security-certification-roadmap/)
 
 
+ 
 ## Contributions welcome
+
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
 
 ## Check out also
