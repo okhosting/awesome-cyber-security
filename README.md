@@ -72,6 +72,8 @@ A curated list of cyber security resources and tools.
 
 * [SANS](https://www.sans.org/security-resources/) - The most trusted source for cyber security training, certification, and research.
 
+* [RansomLeak Security Awareness Training](https://ransomleak.com/#exercises) - Learn by doing. Free interactive 3D exercises that place learners in realistic attack scenarios. People learn to spot threats and attacks before they happen.
+
 * [The Uber List of Cybersecurity Resources](https://www.cyberdegrees.org/resources/the-big-list/) - We’ve subtitled this list: “Everything you want to know about cyber security and are too tired to search for.” Whatever you may be interested in — from DEF CON to SANS — you will find on this page.
 
 * [Cybersecurity resource center](https://cybersecurityguide.org/resources/) - This guide is intended to provide actionable resources for everyone looking to learn more about the field.
