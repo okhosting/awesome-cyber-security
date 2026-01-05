@@ -147,6 +147,7 @@ A curated list of cyber security resources and tools.
 * [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) - Intentionally insecure web app for security training.
 * [OWASP WebGoat](https://owasp.org/www-project-webgoat/) - Deliberately insecure web application maintained by OWASP.
 * [OWASP Security Shepherd](https://owasp.org/www-project-security-shepherd/) - Training platform for learning and practicing application security.
+* [OopsSec Store (OSS)](https://github.com/kOaDT/oss-oopssec-store) - An intentionally vulnerable e-commerce web application for CTF use.
 
 ## Platforms to learn cyber security
 
