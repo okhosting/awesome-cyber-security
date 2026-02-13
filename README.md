@@ -68,7 +68,9 @@ A curated list of cyber security resources and tools.
 
 ## Lists of cyber security resources
 
-* [50+ Cybersecurity Resources](https://darkcubed.com/cybersecurity-resources) - Dark Cubed’s cybersecurity resources page provides links to dozens of 100% free resources you can use for your own business or for your customers.
+* [sase.cloud](https://sase.cloud) - Independent SASE & SSE knowledge base with vendor reviews, component deep-dives (ZTNA, SWG, CASB, DLP, FWaaS, DEM), deployment guides, and practitioner blog posts.
+
+* [50+ Cybersecurity Resources](https://darkcubed.com/cybersecurity-resources) - Dark Cubed's cybersecurity resources page provides links to dozens of 100% free resources you can use for your own business or for your customers.
 
 * [SANS](https://www.sans.org/security-resources/) - The most trusted source for cyber security training, certification, and research.
 
