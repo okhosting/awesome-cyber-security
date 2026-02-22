@@ -56,7 +56,9 @@ A curated list of cyber security resources and tools.
 * [Vulert Vulnerability DB](https://vulert.com/vuln-db) - Vulert's vulnerability database lists recent security issues found in open-source packages for languages like PHP, Java, Python, Node.js, and others.
 
 * [Intelligence X](https://intelx.io/) - Intelligence X is a search engine and data archive. The company is based in Prague, Czech Republic. Its mission is to develop and maintain the search engine and data archive.
-* [Stellastra TLS Cipher Suite Database](https://stellastra.com/cipher-suite) - List of hundreds of TLS cipher suites alongside their security rating and vulnerability/deprecation status. 
+* [Stellastra TLS Cipher Suite Database](https://stellastra.com/cipher-suite) - List of hundreds of TLS cipher suites alongside their security rating and vulnerability/deprecation status.
+
+* [SikkerAPI](https://sikkerapi.com) - IP threat intelligence API powered by a global honeypot network. Provides real-time IP reputation scores, attack behavior classification, and STIX/TAXII feeds.
 
 ## Security advice and guidance
 
