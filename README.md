@@ -107,7 +107,7 @@ A curated list of cyber security resources and tools.
 
 * [vnaya - Cybersecurity For Your Kids](https://www.vnaya.com/these-top-educational-cyber-security-resources-will-help-your-kids-to-stay-safe-from-cyber-crime/) - These Top Educational Cyber Security Resources Will Help Your Kids To Stay Safe From Cyber Crime.
 * [Gracker AI](https://gracker.ai/) - AI Cybersecurity Marketing Tool
-
+* [Watchtower](https://github.com/fzn0x/watchtower) - AI Pentesting Framework Automation Tool
 
 ## Must Read
 - [RTFM: Red Team Field Manual v2](https://amzn.to/3IZXVj2) by Ben Clark, Nick Downer 
