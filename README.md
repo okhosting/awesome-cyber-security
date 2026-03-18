@@ -67,6 +67,8 @@ A curated list of cyber security resources and tools.
 
 * [Políticas de seguridad para la pyme](https://www.incibe.es/protege-tu-empresa/herramientas/politicas) - Para ayudar a la pyme a poner en marcha los procesos internos con los que mejorar su ciberseguridad presentamos una serie de documentos que hemos denominado como «políticas de seguridad».
 
+* [SecOps Bit By Bit: Roadmap for First-Time CTOs and Startup Founders](https://leanpub.com/secops-bit-by-bit) - This book is a compilation of best practices for evaluating weak spots in a product and company, and fostering a robust security culture.
+
 ## Lists of cyber security resources
 
 * [50+ Cybersecurity Resources](https://darkcubed.com/cybersecurity-resources) - Dark Cubed’s cybersecurity resources page provides links to dozens of 100% free resources you can use for your own business or for your customers.
