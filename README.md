@@ -21,6 +21,8 @@ A curated list of cyber security resources and tools.
 
 * [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources.
 
+* [Awesome SOC]( https://github.com/cyb3rxp/awesome-soc) - An operational handbook and knowledge base to build, run and mature a SOC (including CSIRT).
+
 ## Threat databases and alerts
 
 * [ATT&CK](https://attack.mitre.org/) - ATT&CK is a knowledge base of cyber adversary behavior and taxonomy for adversarial actions across their lifecycle. ATT&CK has two parts: ATT&CK for Enterprise, which covers behavior against enterprise IT networks and cloud, and ATT&CK for Mobile, which focuses on behavior against mobile devices.
