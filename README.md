@@ -60,6 +60,7 @@ A curated list of cyber security resources and tools.
 * [Intelligence X](https://intelx.io/) - Intelligence X is a search engine and data archive. The company is based in Prague, Czech Republic. Its mission is to develop and maintain the search engine and data archive.
 * [Pharos AI](https://conflicts.app) - Open-source real-time OSINT dashboard for geopolitical conflict tracking with interactive geospatial visualization, 30+ news feeds, and actor dossiers.
 * [Stellastra TLS Cipher Suite Database](https://stellastra.com/cipher-suite) - List of hundreds of TLS cipher suites alongside their security rating and vulnerability/deprecation status.
+* [defend.network](https://defend.network) - Free AI-powered daily threat briefings and weekly vulnerability reports structured by threat type, industry, and severity, with action checklists and remediation guidance. Sources include CISA advisories and leading cybersecurity publications.
 
 ## Security advice and guidance
 
