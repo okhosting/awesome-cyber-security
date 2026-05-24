@@ -58,6 +58,7 @@ A curated list of cyber security resources and tools.
 * [Vulert Vulnerability DB](https://vulert.com/vuln-db) - Vulert's vulnerability database lists recent security issues found in open-source packages for languages like PHP, Java, Python, Node.js, and others.
 
 * [Intelligence X](https://intelx.io/) - Intelligence X is a search engine and data archive. The company is based in Prague, Czech Republic. Its mission is to develop and maintain the search engine and data archive.
+* [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub proof-of-concept repositories by CVE identifier, with 30,000+ CVEs indexed and updated daily.
 * [Pharos AI](https://conflicts.app) - Open-source real-time OSINT dashboard for geopolitical conflict tracking with interactive geospatial visualization, 30+ news feeds, and actor dossiers.
 * [Stellastra TLS Cipher Suite Database](https://stellastra.com/cipher-suite) - List of hundreds of TLS cipher suites alongside their security rating and vulnerability/deprecation status.
 * [defend.network](https://defend.network) - Free AI-powered daily threat briefings and weekly vulnerability reports structured by threat type, industry, and severity, with action checklists and remediation guidance. Sources include CISA advisories and leading cybersecurity publications.
