@@ -203,6 +203,7 @@ A curated list of cyber security resources and tools.
 * [DarkRelay Security Labs](https://www.darkrelay.com)
 * [CyberPython](https://pythoncyber.go.ro)
 * [SOCLabs-SIEM Exercise](https://www.soc-labs.top/)
+* [1200km Lab Work](https://1200km.com/labs.html) - Security labs covering CTI, detection engineering, vulnerable cloud, AI agent security, Android, Active Directory, Windows, Linux, and malware analysis workflows.
 
 ## Certifications
 
