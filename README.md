@@ -5,6 +5,8 @@ A curated list of cyber security resources and tools.
 
 * [Awesome Security](https://github.com/sbilly/awesome-security/) - A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
 
+* [Awesome ML for CVE Analysis](https://github.com/terranovafr/awesome-ml-for-cve-analysis) - A curated list of machine learning resources for automated CVE analysis
+
 * [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) -  A curated list of Web Security materials and resources for learning cutting edge penetration techniques.
 
 * [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
