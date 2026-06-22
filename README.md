@@ -75,6 +75,8 @@ A curated list of cyber security resources and tools.
 
 * [SecOps Bit By Bit: Roadmap for First-Time CTOs and Startup Founders](https://leanpub.com/secops-bit-by-bit) - This book is a compilation of best practices for evaluating weak spots in a product and company, and fostering a robust security culture.
 
+* [Protego Cybersecurity Blog](https://protego.me) - Free cloud security and cybersecurity blog covering zero trust, AI security, vulnerability management, and Microsoft Azure defense. Includes free online security tools: CVE prioritization (CVSS + EPSS + CISA KEV), email security checker (SPF/DKIM/DMARC), SSL checker, and cloud recon scanner.
+
 ## Lists of cyber security resources
 
 * [50+ Cybersecurity Resources](https://darkcubed.com/cybersecurity-resources) - Dark Cubed’s cybersecurity resources page provides links to dozens of 100% free resources you can use for your own business or for your customers.
