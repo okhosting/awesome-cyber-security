@@ -64,6 +64,7 @@ A curated list of cyber security resources and tools.
 * [Pharos AI](https://conflicts.app) - Open-source real-time OSINT dashboard for geopolitical conflict tracking with interactive geospatial visualization, 30+ news feeds, and actor dossiers.
 * [Stellastra TLS Cipher Suite Database](https://stellastra.com/cipher-suite) - List of hundreds of TLS cipher suites alongside their security rating and vulnerability/deprecation status.
 * [defend.network](https://defend.network) - Free AI-powered daily threat briefings and weekly vulnerability reports structured by threat type, industry, and severity, with action checklists and remediation guidance. Sources include CISA advisories and leading cybersecurity publications.
+* [Protego CVE Prioritization](https://protego.me/tools/cve-prioritization) - Free tool that combines CVSS base scores, EPSS exploit probability, and CISA KEV catalog status to help teams prioritize vulnerability remediation by real-world risk.
 
 ## Security advice and guidance
 
@@ -117,6 +118,7 @@ A curated list of cyber security resources and tools.
 * [vnaya - Cybersecurity For Your Kids](https://www.vnaya.com/these-top-educational-cyber-security-resources-will-help-your-kids-to-stay-safe-from-cyber-crime/) - These Top Educational Cyber Security Resources Will Help Your Kids To Stay Safe From Cyber Crime.
 * [Gracker AI](https://gracker.ai/) - AI Cybersecurity Marketing Tool
 * [Watchtower](https://github.com/fzn0x/watchtower) - AI Pentesting Framework Automation Tool
+* [Protego](https://protego.me) - Free cybersecurity blog and tools covering cloud security, zero trust, and AI security. Includes 20+ free browser-based security tools (vulnerability scanner, email security checker, SSL auditor, domain report, and more).
 
 ## Must Read
 - [RTFM: Red Team Field Manual v2](https://amzn.to/3IZXVj2) by Ben Clark, Nick Downer 
