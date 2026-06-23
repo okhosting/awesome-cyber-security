@@ -29,6 +29,8 @@ A curated list of cyber security resources and tools.
 
 * [ATT&CK](https://attack.mitre.org/) - ATT&CK is a knowledge base of cyber adversary behavior and taxonomy for adversarial actions across their lifecycle. ATT&CK has two parts: ATT&CK for Enterprise, which covers behavior against enterprise IT networks and cloud, and ATT&CK for Mobile, which focuses on behavior against mobile devices.
 
+* [AdversaryGraph](https://github.com/anpa1200/adversarygraph) - Self-hosted CTI-to-detection platform for ATT&CK/ATLAS mapping, IOC enrichment, TTP comparison, and analyst reporting.
+
 * [NHS Digital Cyber Alerts](https://digital.nhs.uk/cyber-alerts) - We issue cyber security alert notifications to health and care organisations, ranging from weekly threat bulletins to immediate high-severity alerts.
 
 * [cve-search](https://cve.circl.lu/) - cve-search is accessible via a web interface and an HTTP API. cve-search is an interface to search publicly known information from security vulnerabilities in software and hardware along with their corresponding exposures.
@@ -119,6 +121,8 @@ A curated list of cyber security resources and tools.
 * [vnaya - Cybersecurity For Your Kids](https://www.vnaya.com/these-top-educational-cyber-security-resources-will-help-your-kids-to-stay-safe-from-cyber-crime/) - These Top Educational Cyber Security Resources Will Help Your Kids To Stay Safe From Cyber Crime.
 * [Gracker AI](https://gracker.ai/) - AI Cybersecurity Marketing Tool
 * [Watchtower](https://github.com/fzn0x/watchtower) - AI Pentesting Framework Automation Tool
+* [Protego](https://protego.me) - Cybersecurity blog with free tools, certification study guides, and enterprise security articles covering Microsoft/Azure, zero trust, and cloud security.
+* [Protego Free Security Tools](https://protego.me/tools) - Collection of 23 free security tools including a vulnerability scanner, CVE prioritization tool, SSL checker, email security checker (SPF/DKIM/DMARC), and domain report.
 
 ## Must Read
 - [RTFM: Red Team Field Manual v2](https://amzn.to/3IZXVj2) by Ben Clark, Nick Downer 
