@@ -135,6 +135,7 @@ A curated list of cyber security resources and tools.
 - [Ethical Hacking](https://amzn.to/41TLu12) by Daniel G. Graham
 - [Foundations of Information Security](https://amzn.to/41VOPga) by Jason Andress
 - [Penetration Testing](https://amzn.to/3mweg7N) by Georgia Weidman
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, orchestrating 80+ offensive tools as an MCP host with proof of exploitation and a local privacy gateway (the LLM never sees real IPs or credentials).
 - [Metasploit](https://amzn.to/3Zq362M) by David Kennedy, Jim O’Gorman, Devon Kearns, and Mati Aharoni
 - [The Tangled Web: A Guide to Securing Modern Web Applications](https://amzn.to/3yhgv14) by Michal Zalewski
   
