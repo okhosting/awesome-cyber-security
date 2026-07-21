@@ -95,6 +95,8 @@ A curated list of cyber security resources and tools.
 
 * [Cyber Security Education](https://www.cybersecurityeducation.org/resources/) - This page is devoted to helping cyber security experts find the resources they need to grow and thrive.
 
+* [MDRProviders.io](https://mdrproviders.io) - Directory of managed detection and response (MDR) providers, with structured data on pricing, SLAs, certifications and coverage, plus a published methodology.
+
 * [NATIONAL INITIATIVE FOR CYBERSECURITY CAREERS AND STUDIES](https://niccs.cisa.gov/workforce-development/cybersecurity-resources) - The premier online resource for cybersecurity training. NICCS connects Government employees, students, educators, and industry with cybersecurity training providers throughout the Nation.
 
 
