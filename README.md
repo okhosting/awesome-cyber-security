@@ -145,6 +145,10 @@ A curated list of cyber security resources and tools.
 - [Hacking APIs](https://amzn.to/3F3M1Dw) by Corey Ball
 - [Real-World Bug Hunting](https://amzn.to/3ZLqc3F) by Peter Yaworski
 
+## Secure web application tools
+
+* [Poszo Next.js Security Headers Starter](https://github.com/poszothebuilder/poszo-nextjs-security-headers) - MIT-licensed Next.js response-header configurations with CSP guidance, a dependency-free deployed-site checker, and rollback instructions.
+
 ## Secure Software Development (OWASP)
 
 * [OWASP Top 10](https://owasp.org/Top10/) - The most critical security risks to web applications.
