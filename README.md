@@ -147,6 +147,7 @@ A curated list of cyber security resources and tools.
 
 ## Secure web application tools
 
+* [DomScan](https://domscan.net/tools/security) - Domain reconnaissance for DNS, WHOIS/RDAP, TLS, subdomains, reputation, redirects, and typosquatting.
 * [Poszo Next.js Security Headers Starter](https://github.com/poszothebuilder/poszo-nextjs-security-headers) - MIT-licensed Next.js response-header configurations with CSP guidance, a dependency-free deployed-site checker, and rollback instructions.
 
 ## Secure Software Development (OWASP)
