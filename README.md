@@ -23,7 +23,9 @@ A curated list of cyber security resources and tools.
 
 * [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources.
 
-* [Awesome SOC]( https://github.com/cyb3rxp/awesome-soc) - An operational handbook and knowledge base to build, run and mature a SOC (including CSIRT).
+* [Awesome SOC](https://github.com/cyb3rxp/awesome-soc) - An operational handbook and knowledge base to build, run and mature a SOC (including CSIRT).
+
+* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools and resources for security incident response, aimed to help security analysts and DFIR teams.
 
 ## Threat databases and alerts
 
