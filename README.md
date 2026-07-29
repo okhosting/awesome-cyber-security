@@ -147,6 +147,9 @@ A curated list of cyber security resources and tools.
 - [Hacking APIs](https://amzn.to/3F3M1Dw) by Corey Ball
 - [Real-World Bug Hunting](https://amzn.to/3ZLqc3F) by Peter Yaworski
 
+## AI-powered security tools
+* [Cynative](https://github.com/cynative/cynative) - Open-source cybersecurity deep research agent for cloud, runtime and code - connects to AWS, GCP, Azure, K8s, GitHub & GitLab. Read-only CLI built in Go.
+
 ## Secure web application tools
 
 * [DomScan](https://domscan.net/tools/security) - Domain reconnaissance for DNS, WHOIS/RDAP, TLS, subdomains, reputation, redirects, and typosquatting.
