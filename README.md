@@ -175,6 +175,7 @@ A curated list of cyber security resources and tools.
 * [OWASP WebGoat](https://owasp.org/www-project-webgoat/) - Deliberately insecure web application maintained by OWASP.
 * [OWASP Security Shepherd](https://owasp.org/www-project-security-shepherd/) - Training platform for learning and practicing application security.
 * [OopsSec Store (OSS)](https://github.com/kOaDT/oss-oopssec-store) - An intentionally vulnerable e-commerce web application for CTF use.
+* [NuGuard](https://github.com/NuGuardAI/nuguard) - Open-source CLI that generates an AI-SBOM (AIBOM) and red-teams agentic AI applications for supply-chain and behavioral risks, alongside tools like CycloneDX and OWASP Dependency-Check.
 
 ## Platforms to learn cyber security
 
