@@ -153,6 +153,7 @@ A curated list of cyber security resources and tools.
 ## Secure web application tools
 
 * [DomScan](https://domscan.net/tools/security) - Domain reconnaissance for DNS, WHOIS/RDAP, TLS, subdomains, reputation, redirects, and typosquatting.
+* [Nutilz Hash Generator](https://nutilz.com/hash-generator) - Generates SHA-1, SHA-256, SHA-384, and SHA-512 hashes from text entirely in-browser via the Web Crypto API, for checksum verification and file integrity checks. No data is sent to a server.
 * [Poszo Next.js Security Headers Starter](https://github.com/poszothebuilder/poszo-nextjs-security-headers) - MIT-licensed Next.js response-header configurations with CSP guidance, a dependency-free deployed-site checker, and rollback instructions.
 
 ## Secure Software Development (OWASP)
@@ -176,6 +177,7 @@ A curated list of cyber security resources and tools.
 * [OWASP Security Shepherd](https://owasp.org/www-project-security-shepherd/) - Training platform for learning and practicing application security.
 * [OopsSec Store (OSS)](https://github.com/kOaDT/oss-oopssec-store) - An intentionally vulnerable e-commerce web application for CTF use.
 * [NuGuard](https://github.com/NuGuardAI/nuguard) - Open-source CLI that generates an AI-SBOM (AIBOM) and red-teams agentic AI applications for supply-chain and behavioral risks, alongside tools like CycloneDX and OWASP Dependency-Check.
+* [OWASP VulnReach](https://github.com/OWASP/VulnReach/) - Adds runtime-aware reachability analysis on top of standard SCA output. Combines static taint tracking, AST call-graph analysis, route exposure mapping, and live runtime coverage to classify each detected CVE as dynamically reachable, statically reachable, uncertain, or not reachable — cutting through SCA noise to surface only the vulnerabilities that actually need fixing.
 
 ## Platforms to learn cyber security
 
