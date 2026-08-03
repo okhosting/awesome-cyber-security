@@ -176,6 +176,7 @@ A curated list of cyber security resources and tools.
 * [OWASP WebGoat](https://owasp.org/www-project-webgoat/) - Deliberately insecure web application maintained by OWASP.
 * [OWASP Security Shepherd](https://owasp.org/www-project-security-shepherd/) - Training platform for learning and practicing application security.
 * [OopsSec Store (OSS)](https://github.com/kOaDT/oss-oopssec-store) - An intentionally vulnerable e-commerce web application for CTF use.
+* [NuGuard](https://github.com/NuGuardAI/nuguard) - Open-source CLI that generates an AI-SBOM (AIBOM) and red-teams agentic AI applications for supply-chain and behavioral risks, alongside tools like CycloneDX and OWASP Dependency-Check.
 * [OWASP VulnReach](https://github.com/OWASP/VulnReach/) - Adds runtime-aware reachability analysis on top of standard SCA output. Combines static taint tracking, AST call-graph analysis, route exposure mapping, and live runtime coverage to classify each detected CVE as dynamically reachable, statically reachable, uncertain, or not reachable — cutting through SCA noise to surface only the vulnerabilities that actually need fixing.
 
 ## Platforms to learn cyber security
