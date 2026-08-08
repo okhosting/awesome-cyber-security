@@ -156,6 +156,7 @@ A curated list of cyber security resources and tools.
 * [Nutilz Hash Generator](https://nutilz.com/hash-generator) - Generates SHA-1, SHA-256, SHA-384, and SHA-512 hashes from text entirely in-browser via the Web Crypto API, for checksum verification and file integrity checks. No data is sent to a server.
 * [JWT Decoder](https://alltoolsverse.com/tools/jwt-decoder/) - Decodes token headers and payload claims as formatted JSON entirely in the browser without uploading the token. It does not verify signatures.
 * [Poszo Next.js Security Headers Starter](https://github.com/poszothebuilder/poszo-nextjs-security-headers) - MIT-licensed Next.js response-header configurations with CSP guidance, a dependency-free deployed-site checker, and rollback instructions.
+* [Nutilz CORS Header Generator](https://nutilz.com/cors-header-generator) - Generates production-ready CORS response header configurations for Nginx, Apache, Express.js, Next.js, Fastify, Spring Boot, Go, Cloudflare Workers, and AWS CloudFront, including preflight OPTIONS handling and credential-flag validation.
 
 ## Secure Software Development (OWASP)
 
