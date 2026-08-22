@@ -81,6 +81,8 @@ A curated list of cyber security resources and tools.
 
 * [Protego Cybersecurity Blog](https://protego.me) - Free cloud security and cybersecurity blog covering zero trust, AI security, vulnerability management, and Microsoft Azure defense. Includes free online security tools: CVE prioritization (CVSS + EPSS + CISA KEV), email security checker (SPF/DKIM/DMARC), SSL checker, and cloud recon scanner.
 
+* [MindDividend Shield](https://alphaengineerai.com/global-online-scam-checker.html) - Free global online scam checker with multilingual scam-awareness guides, recovery checklists, and official reporting routes for people targeted by online fraud.
+
 ## Lists of cyber security resources
 
 * [50+ Cybersecurity Resources](https://darkcubed.com/cybersecurity-resources) - Dark Cubed’s cybersecurity resources page provides links to dozens of 100% free resources you can use for your own business or for your customers.
