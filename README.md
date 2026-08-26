@@ -238,7 +238,15 @@ A curated list of cyber security resources and tools.
 
 * [Security Certification Roadmap - Paul Jerimy Media](https://pauljerimy.com/security-certification-roadmap/)
 
+## Operational Technology (OT) and ICS Security
 
+- [OWASP OT Top 10](https://ot.owasp.org) - Official OWASP Foundation project mapping the top 10 security risks in operational technology environments, with compliance mappings to IEC 62443, NIST SP 800-82 and IEC 62061.
+- [Awesome ICS Security](https://github.com/hslatman/awesome-industrial-control-system-security) - A curated list of resources for Industrial Control System and OT security including tools, frameworks, threat intelligence and functional safety integration resources.
+- [ICS Cybersecurity Audit Framework](https://github.com/frangelbarrera/ICS-Cybersecurity-Audit) - A structured 5-phase cybersecurity audit methodology for ICS/OT environments aligned with IEC 62443, NIST SP 800-82 and IEC 62061 for safety-critical systems.
+- [NCSC Cyber Assessment Framework](https://www.ncsc.gov.uk/collection/cyber-assessment-framework) - The UK National Cyber Security Centre framework for operators of essential services and critical national infrastructure covering governance, protection, detection and response.
+- [Securing Research Facilities: Challenges and Solutions in Cybersecurity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5619874) - Practitioner-authored framework for cybersecurity in large-scale scientific research infrastructure, addressing OT exposure, remote access and safety-security integration (SSRN, 2025).
+- [IEC 62061](https://www.iso.org/standard/73774.html) - International standard for functional safety of safety-related control systems for machinery. Essential for OT environments where PLCs and safety interlocks perform SIL-classified safety functions.
+- [NIST SP 800-82 Rev 3](https://csrc.nist.gov/publications/detail/sp/800-82/rev-3/final) - NIST Guide to Operational Technology Security covering OT-specific network architecture, incident response and the challenges of securing systems that cannot use standard IT patching processes.
  
 ## Contributions welcome
 
