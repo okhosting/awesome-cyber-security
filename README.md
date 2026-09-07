@@ -160,6 +160,14 @@ A curated list of cyber security resources and tools.
 * [Poszo Next.js Security Headers Starter](https://github.com/poszothebuilder/poszo-nextjs-security-headers) - MIT-licensed Next.js response-header configurations with CSP guidance, a dependency-free deployed-site checker, and rollback instructions.
 * [Nutilz CORS Header Generator](https://nutilz.com/cors-header-generator) - Generates production-ready CORS response header configurations for Nginx, Apache, Express.js, Next.js, Fastify, Spring Boot, Go, Cloudflare Workers, and AWS CloudFront, including preflight OPTIONS handling and credential-flag validation.
 
+## Supply chain and dependency security
+
+* [OSV-Scanner](https://github.com/google/osv-scanner) - Scans lockfiles, SBOMs and container images against the OSV.dev vulnerability database.
+* [DataDog/supply-chain-firewall](https://github.com/DataDog/supply-chain-firewall) - Blocks installation of malicious and vulnerable PyPI and npm packages on developer workstations.
+* [GuardDog](https://github.com/DataDog/guarddog) - Identifies malicious PyPI and npm packages using Semgrep rules and package metadata heuristics.
+* [extuno](https://github.com/Extuno/extuno-cli) - Pre-install gate for pip that produces a verdict before the artifact reaches the machine, so neither build-time nor first-import code runs locally; SARIF output and CI exit codes.
+* [Syft](https://github.com/anchore/syft) - Generates SBOMs from container images and filesystems in SPDX and CycloneDX formats.
+
 ## Secure Software Development (OWASP)
 
 * [OWASP Top 10](https://owasp.org/Top10/) - The most critical security risks to web applications.
