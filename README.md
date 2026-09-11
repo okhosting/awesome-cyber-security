@@ -256,6 +256,10 @@ A curated list of cyber security resources and tools.
 - [IEC 62061](https://www.iso.org/standard/73774.html) - International standard for functional safety of safety-related control systems for machinery. Essential for OT environments where PLCs and safety interlocks perform SIL-classified safety functions.
 - [NIST SP 800-82 Rev 3](https://csrc.nist.gov/publications/detail/sp/800-82/rev-3/final) - NIST Guide to Operational Technology Security covering OT-specific network architecture, incident response and the challenges of securing systems that cannot use standard IT patching processes.
  
+## Honeypots and deception
+
+* [honeypot-auditor](https://github.com/mziqudhd92/honeypot-auditor) - Multi-protocol CLI that fingerprints whether an authorized target behaves like a low-interaction honeypot using auth/state probes and a weighted score.
+
 ## Contributions welcome
 
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
