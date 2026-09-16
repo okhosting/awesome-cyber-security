@@ -151,6 +151,7 @@ A curated list of cyber security resources and tools.
 
 ## AI-powered security tools
 * [Cynative](https://github.com/cynative/cynative) - Open-source cybersecurity deep research agent for cloud, runtime and code - connects to AWS, GCP, Azure, K8s, GitHub & GitLab. Read-only CLI built in Go.
+* [Skill Safe](https://skillsafe.online/) - Free agent-skill security scanner that reviews public skill URLs or uploaded source files for prompt injection, exfiltration, dangerous actions, and permission risks before installation.
 
 ## Secure web application tools
 
