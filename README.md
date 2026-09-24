@@ -68,6 +68,7 @@ A curated list of cyber security resources and tools.
 * [Pharos AI](https://conflicts.app) - Open-source real-time OSINT dashboard for geopolitical conflict tracking with interactive geospatial visualization, 30+ news feeds, and actor dossiers.
 * [Stellastra TLS Cipher Suite Database](https://stellastra.com/cipher-suite) - List of hundreds of TLS cipher suites alongside their security rating and vulnerability/deprecation status.
 * [defend.network](https://defend.network) - Free AI-powered daily threat briefings and weekly vulnerability reports structured by threat type, industry, and severity, with action checklists and remediation guidance. Sources include CISA advisories and leading cybersecurity publications.
+* [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) - Open database of real-world AI agent security incidents: 354 records (prompt injection, agent supply chain, MCP, sandbox escapes, agent-framework CVEs), each with a primary source and flags for confirmed harm and AI involvement. CC BY 4.0, with JSON/CSV exports.
 
 ## Security advice and guidance
 
