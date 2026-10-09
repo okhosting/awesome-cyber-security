@@ -171,6 +171,17 @@ A curated list of cyber security resources and tools.
 * [GuardDog](https://github.com/DataDog/guarddog) - Identifies malicious PyPI and npm packages using Semgrep rules and package metadata heuristics.
 * [extuno](https://github.com/Extuno/extuno-cli) - Pre-install gate for pip that produces a verdict before the artifact reaches the machine, so neither build-time nor first-import code runs locally; SARIF output and CI exit codes.
 * [Syft](https://github.com/anchore/syft) - Generates SBOMs from container images and filesystems in SPDX and CycloneDX formats.
+* [Pentest-Tools Website Vulnerability Scanner](https://pentest-tools.com/website-vulnerability-scanning/website-scanner) - Online scanner for automated website vulnerability assessment.
+* [Qualys SSL Labs](https://www.ssllabs.com/ssltest/) - Online tool for detailed analysis of SSL/TLS server configurations.
+* [ImmuniWeb Website Security Test](https://www.immuniweb.com/websec/) - Online web application security testing service.
+* [ImmuniWeb SSL Security Test](https://www.immuniweb.com/ssl/) - Online assessment of SSL/TLS security configurations.
+* [MDN HTTP Observatory](https://developer.mozilla.org/en-US/observatory) - Analyzes website HTTP security configurations and security best practices.
+* [SecurityHeaders.com](https://securityheaders.com/) - Analyzes HTTP security headers deployed by a website.
+* [Google CSP Evaluator](https://csp-evaluator.withgoogle.com/) - Analyzes Content Security Policy configurations for security weaknesses.
+* [CORS Checker](https://corscheck.com/) - Online tool for testing website CORS configurations.
+* [Hardenize](https://www.hardenize.com/) - Assesses domain, DNS, TLS, certificate, and email security configurations.
+* [Sucuri SiteCheck](https://sitecheck.sucuri.net/) - Online website malware and security scanner.
+* [WebCheck](https://web-check.xyz/) - Online tool for website reconnaissance and security analysis.
 
 ## Secure Software Development (OWASP)
 
