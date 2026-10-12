@@ -64,7 +64,6 @@ A curated list of cyber security resources and tools.
 * [Vulert Vulnerability DB](https://vulert.com/vuln-db) - Vulert's vulnerability database lists recent security issues found in open-source packages for languages like PHP, Java, Python, Node.js, and others.
 
 * [Intelligence X](https://intelx.io/) - Intelligence X is a search engine and data archive. The company is based in Prague, Czech Republic. Its mission is to develop and maintain the search engine and data archive.
-* [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub proof-of-concept repositories by CVE identifier, with 30,000+ CVEs indexed and updated daily.
 * [Pharos AI](https://conflicts.app) - Open-source real-time OSINT dashboard for geopolitical conflict tracking with interactive geospatial visualization, 30+ news feeds, and actor dossiers.
 * [Stellastra TLS Cipher Suite Database](https://stellastra.com/cipher-suite) - List of hundreds of TLS cipher suites alongside their security rating and vulnerability/deprecation status.
 * [defend.network](https://defend.network) - Free AI-powered daily threat briefings and weekly vulnerability reports structured by threat type, industry, and severity, with action checklists and remediation guidance. Sources include CISA advisories and leading cybersecurity publications.
@@ -86,7 +85,7 @@ A curated list of cyber security resources and tools.
 
 ## Lists of cyber security resources
 
-* [50+ Cybersecurity Resources](https://darkcubed.com/cybersecurity-resources) - Dark Cubed’s cybersecurity resources page provides links to dozens of 100% free resources you can use for your own business or for your customers.
+* [Celerium Cybersecurity Resources](https://www.celerium.com/intelligence) - Celerium (formerly Dark Cubed)’s intelligence hub with free cybersecurity resources for businesses and their customers.
 
 * [SANS](https://www.sans.org/security-resources/) - The most trusted source for cyber security training, certification, and research.
 
@@ -125,7 +124,6 @@ A curated list of cyber security resources and tools.
 
 * [Security Acronyms](https://github.com/cloudsecurelab/security-acronyms) - Curated list of security related acronyms and terms.
 
-* [vnaya - Cybersecurity For Your Kids](https://www.vnaya.com/these-top-educational-cyber-security-resources-will-help-your-kids-to-stay-safe-from-cyber-crime/) - These Top Educational Cyber Security Resources Will Help Your Kids To Stay Safe From Cyber Crime.
 * [Gracker AI](https://gracker.ai/) - AI Cybersecurity Marketing Tool
 * [Watchtower](https://github.com/fzn0x/watchtower) - AI Pentesting Framework Automation Tool
 * [ARS3NAL](https://github.com/inflictx/Arsenal) - Offline-first, searchable arsenal of pentest & bug bounty resources: ~1500 payloads, command generator, GTFOBins, wordlists, embedded CyberChef, reverse shells and 70 checklists.
@@ -229,7 +227,7 @@ A curated list of cyber security resources and tools.
 * [TCM academy](https://academy.tcm-sec.com/)
 * [Hacking Articles - Raj Chandel's Blog](https://www.hackingarticles.in/)
 * [Active Directory Security](https://adsecurity.org/)
-* [HackTricks](https://book.hacktricks.xyz/welcome/readme)
+* [HackTricks](https://hacktricks.wiki/en/)
 * hadess.io
 * [Home | RedTeamRecipe](https://redteamrecipe.com/)
 * [PentesterLab](https://pentesterlab.com/)
@@ -242,7 +240,6 @@ A curated list of cyber security resources and tools.
 * [Bug Bounty Guide](https://bugbountyguide.org/)
 * [Pentester Land](https://pentester.land/)
 * [isc2](https://www.isc2.org)
-* [vulnmachines](https://www.vulnmachines.com/)
 * [Purple Academy | picussecurity.com](https://academy.picussecurity.com/start)
 * [OPSWAT Academy](https://learn.opswatacademy.com/certifications)
 * [APIsec University](https://www.apisecuniversity.com/)
@@ -269,7 +266,7 @@ A curated list of cyber security resources and tools.
 - [NCSC Cyber Assessment Framework](https://www.ncsc.gov.uk/collection/cyber-assessment-framework) - The UK National Cyber Security Centre framework for operators of essential services and critical national infrastructure covering governance, protection, detection and response.
 - [Securing Research Facilities: Challenges and Solutions in Cybersecurity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5619874) - Practitioner-authored framework for cybersecurity in large-scale scientific research infrastructure, addressing OT exposure, remote access and safety-security integration (SSRN, 2025).
 - [IEC 62061](https://www.iso.org/standard/73774.html) - International standard for functional safety of safety-related control systems for machinery. Essential for OT environments where PLCs and safety interlocks perform SIL-classified safety functions.
-- [NIST SP 800-82 Rev 3](https://csrc.nist.gov/publications/detail/sp/800-82/rev-3/final) - NIST Guide to Operational Technology Security covering OT-specific network architecture, incident response and the challenges of securing systems that cannot use standard IT patching processes.
+- [NIST SP 800-82 Rev 3](https://csrc.nist.gov/pubs/sp/800/82/r3/final) - NIST Guide to Operational Technology Security covering OT-specific network architecture, incident response and the challenges of securing systems that cannot use standard IT patching processes.
  
 ## Honeypots and deception
 
