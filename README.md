@@ -157,6 +157,7 @@ A curated list of cyber security resources and tools.
 ## Secure web application tools
 
 * [DomScan](https://domscan.net/tools/security) - Domain reconnaissance for DNS, WHOIS/RDAP, TLS, subdomains, reputation, redirects, and typosquatting.
+* [Vacato](https://vacato.io) - Free RDAP domain availability watchlist with scheduled checks and Telegram/email alerts when a taken name looks available (not a drop-catcher; free 10 domains).
 * [Nutilz Hash Generator](https://nutilz.com/hash-generator) - Generates SHA-1, SHA-256, SHA-384, and SHA-512 hashes from text entirely in-browser via the Web Crypto API, for checksum verification and file integrity checks. No data is sent to a server.
 * [JWT Decoder](https://alltoolsverse.com/tools/jwt-decoder/) - Decodes token headers and payload claims as formatted JSON entirely in the browser without uploading the token. It does not verify signatures.
 * [Poszo Next.js Security Headers Starter](https://github.com/poszothebuilder/poszo-nextjs-security-headers) - MIT-licensed Next.js response-header configurations with CSP guidance, a dependency-free deployed-site checker, and rollback instructions.
