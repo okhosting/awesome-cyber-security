@@ -165,6 +165,7 @@ A curated list of cyber security resources and tools.
 * [JWT Decoder](https://alltoolsverse.com/tools/jwt-decoder/) - Decodes token headers and payload claims as formatted JSON entirely in the browser without uploading the token. It does not verify signatures.
 * [Poszo Next.js Security Headers Starter](https://github.com/poszothebuilder/poszo-nextjs-security-headers) - MIT-licensed Next.js response-header configurations with CSP guidance, a dependency-free deployed-site checker, and rollback instructions.
 * [Nutilz CORS Header Generator](https://nutilz.com/cors-header-generator) - Generates production-ready CORS response header configurations for Nginx, Apache, Express.js, Next.js, Fastify, Spring Boot, Go, Cloudflare Workers, and AWS CloudFront, including preflight OPTIONS handling and credential-flag validation.
+* [Website Vulnerability Scanner](https://github.com/RanaKhan77/Website-Vulnerability-Scanner) - Self-hosted (Docker, Apache-2.0) web vulnerability scanner with 200 deterministic modules covering the OWASP Top 10, WordPress/CMS fingerprinting, TLS/DNS/email misconfigurations, exposed services and AI/LLM attack surfaces, with PDF reporting and continuous monitoring.
 
 ## Supply chain and dependency security
 
