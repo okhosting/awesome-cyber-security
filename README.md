@@ -166,6 +166,7 @@ A curated list of cyber security resources and tools.
 * [Poszo Next.js Security Headers Starter](https://github.com/poszothebuilder/poszo-nextjs-security-headers) - MIT-licensed Next.js response-header configurations with CSP guidance, a dependency-free deployed-site checker, and rollback instructions.
 * [Nutilz CORS Header Generator](https://nutilz.com/cors-header-generator) - Generates production-ready CORS response header configurations for Nginx, Apache, Express.js, Next.js, Fastify, Spring Boot, Go, Cloudflare Workers, and AWS CloudFront, including preflight OPTIONS handling and credential-flag validation.
 * [Website Vulnerability Scanner](https://github.com/RanaKhan77/Website-Vulnerability-Scanner) - Self-hosted (Docker, Apache-2.0) web vulnerability scanner with 200 deterministic modules covering the OWASP Top 10, WordPress/CMS fingerprinting, TLS/DNS/email misconfigurations, exposed services and AI/LLM attack surfaces, with PDF reporting and continuous monitoring.
+* [StackScan](https://www.stackscan.com) - Technology lookup for any domain, plus reverse lookup to find every site running a given CMS, plugin or library, useful for scoping exposure to a vulnerable component.
 
 ## Supply chain and dependency security
 
