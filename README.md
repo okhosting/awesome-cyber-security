@@ -27,6 +27,8 @@ A curated list of cyber security resources and tools.
 
 * [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools and resources for security incident response, aimed to help security analysts and DFIR teams.
 
+* [Awesome Cyber Security Heaven](https://github.com/RanaKhan77/awesome-cyber-security-heaven) - 519 curated FREE cybersecurity tools across 14 themed realms (pentest, OSINT, threat intel, DFIR, DevSecOps, AI/LLM security). Free, open-source and free-tier entries only, license-verified, with PDF handouts.
+
 ## Threat databases and alerts
 
 * [ATT&CK](https://attack.mitre.org/) - ATT&CK is a knowledge base of cyber adversary behavior and taxonomy for adversarial actions across their lifecycle. ATT&CK has two parts: ATT&CK for Enterprise, which covers behavior against enterprise IT networks and cloud, and ATT&CK for Mobile, which focuses on behavior against mobile devices.
