@@ -167,6 +167,7 @@ A curated list of cyber security resources and tools.
 * [Nutilz CORS Header Generator](https://nutilz.com/cors-header-generator) - Generates production-ready CORS response header configurations for Nginx, Apache, Express.js, Next.js, Fastify, Spring Boot, Go, Cloudflare Workers, and AWS CloudFront, including preflight OPTIONS handling and credential-flag validation.
 * [Website Vulnerability Scanner](https://github.com/RanaKhan77/Website-Vulnerability-Scanner) - Self-hosted (Docker, Apache-2.0) web vulnerability scanner with 200 deterministic modules covering the OWASP Top 10, WordPress/CMS fingerprinting, TLS/DNS/email misconfigurations, exposed services and AI/LLM attack surfaces, with PDF reporting and continuous monitoring.
 * [StackScan](https://www.stackscan.com) - Technology lookup for any domain, plus reverse lookup to find every site running a given CMS, plugin or library, useful for scoping exposure to a vulnerable component.
+* [Benchvale Hash Generator](https://benchvale.com/dev/hash-generator) - Hashes text or a local file with MD5 and the SHA family, or with a keyed HMAC whose key can be entered as hex or base64, in the browser.
 
 ## Supply chain and dependency security
 
