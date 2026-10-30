@@ -175,7 +175,7 @@ A curated list of cyber security resources and tools.
 * [DataDog/supply-chain-firewall](https://github.com/DataDog/supply-chain-firewall) - Blocks installation of malicious and vulnerable PyPI and npm packages on developer workstations.
 * [GuardDog](https://github.com/DataDog/guarddog) - Identifies malicious PyPI and npm packages using Semgrep rules and package metadata heuristics.
 * [extuno](https://github.com/Extuno/extuno-cli) - Pre-install gate for pip that produces a verdict before the artifact reaches the machine, so neither build-time nor first-import code runs locally; SARIF output and CI exit codes.
-* [Chainsaw](https://github.com/Chain305/chainsaw-core) - Package firewall and registry proxy that refuses malicious, typosquatted and known-vulnerable packages at install time across 16 ecosystems, including npm, PyPI, Maven, Go and Cargo.
+* [chainsaw-core](https://github.com/Chain305/chainsaw-core) - CLI that refuses known-malicious and typosquatted packages at install time for npm, pip, cargo, gem and go, using the OpenSSF malicious-packages feed offline.
 * [Syft](https://github.com/anchore/syft) - Generates SBOMs from container images and filesystems in SPDX and CycloneDX formats.
 * [Pentest-Tools Website Vulnerability Scanner](https://pentest-tools.com/website-vulnerability-scanning/website-scanner) - Online scanner for automated website vulnerability assessment.
 * [Qualys SSL Labs](https://www.ssllabs.com/ssltest/) - Online tool for detailed analysis of SSL/TLS server configurations.
