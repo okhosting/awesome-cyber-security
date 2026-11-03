@@ -70,6 +70,8 @@ A curated list of cyber security resources and tools.
 * [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) - Open database of real-world AI agent security incidents: 354 records (prompt injection, agent supply chain, MCP, sandbox escapes, agent-framework CVEs), each with a primary source and flags for confirmed harm and AI involvement. CC BY 4.0, with JSON/CSV exports.
 
 * [ICHI – Internet Cyber Health Index](https://ichi.global) - Free, publicly accessible daily barometer of Internet cyber health. Aggregates vulnerability pressure, exploitation telemetry, malware infrastructure, threat actor activity, ransomware, and supply-chain signals into a single source-transparent, executive-readable index.
+* [Have I Been Ransomed?](https://haveibeenransom.com/) - Checks whether an email, phone number or company domain appears in ransomware leaks, stealer logs or traditional breaches. The web search is free; the API needs a paid key.
+* [Breach House](https://breach.house/) - Free, open search over ransomware leaks, stealer logs, traditional breaches and leads, by company, domain or email.
 
 ## Security advice and guidance
 
