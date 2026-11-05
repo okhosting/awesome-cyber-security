@@ -73,6 +73,8 @@ A curated list of cyber security resources and tools.
 * [Have I Been Ransomed?](https://haveibeenransom.com/) - Checks whether an email, phone number or company domain appears in ransomware leaks, stealer logs or traditional breaches. The web search is free; the API needs a paid key.
 * [Breach House](https://breach.house/) - Free, open search over ransomware leaks, stealer logs, traditional breaches and leads, by company, domain or email.
 
+* [BreachDetect](https://breachdetect.net/) - Stealer-log and data breach search and monitoring for companies, including stolen session cookies. Free domain check with no signup.
+
 ## Security advice and guidance
 
 * [The National Cyber Security Centre](https://www.ncsc.gov.uk/section/advice-guidance/all-topics) - Helping to make the UK the safest place to live and work online.
