@@ -176,6 +176,7 @@ A curated list of cyber security resources and tools.
 * [StackScan](https://www.stackscan.com) - Technology lookup for any domain, plus reverse lookup to find every site running a given CMS, plugin or library, useful for scoping exposure to a vulnerable component.
 * [Benchvale Hash Generator](https://benchvale.com/dev/hash-generator) - Hashes text or a local file with MD5 and the SHA family, or with a keyed HMAC whose key can be entered as hex or base64, in the browser.
 * [ScanMalware](https://scanmalware.com/) - Free URL scanner that runs a link in isolated analysis environments, records what the page loads and runs, and checks it against YARA, antivirus and IDS rules, threat feeds and AI for a phishing or malware verdict with the evidence. Every public scan is searchable by domain, IP, ASN, JARM or favicon hash.
+* [Security Headers Checker](https://penetrationtestservices.com/tools/security-headers-checker/) - Free web tool that grades the HTTP security headers of a public page; no sign-up required.
 
 ## Supply chain and dependency security
 
