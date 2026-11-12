@@ -89,6 +89,8 @@ A curated list of cyber security resources and tools.
 
 * [MindDividend Shield](https://alphaengineerai.com/global-online-scam-checker.html) - Free global online scam checker with multilingual scam-awareness guides, recovery checklists, and official reporting routes for people targeted by online fraud.
 
+* [Vibe coding security risks: 5 holes I reproduced](https://madsalt.tech/blog/vibe-coding-security-risks/) - What goes wrong in apps built with AI tools, with numbers from three studies and five access holes reproduced on a local Supabase stack, plus how to check yours.
+
 ## Lists of cyber security resources
 
 * [Celerium Cybersecurity Resources](https://www.celerium.com/intelligence) - Celerium (formerly Dark Cubed)’s intelligence hub with free cybersecurity resources for businesses and their customers.
