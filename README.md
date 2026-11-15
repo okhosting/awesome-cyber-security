@@ -237,6 +237,7 @@ A curated list of cyber security resources and tools.
 * [Cybersecurity roadmap](https://roadmap.sh/cyber-security)
 * [Cybrary](https://www.cybrary.it)
 * [PortSwigger](https://portswigger.net/web-security)
+* [WebVerse Labs](https://webverselabs-pro.com)
 * [Vulnhub](https://www.vulnhub.com)
 * [root-me](https://www.root-me.org)
 * [picoctf](https://picoctf.org)
