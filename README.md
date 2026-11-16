@@ -27,6 +27,8 @@ A curated list of cyber security resources and tools.
 
 * [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools and resources for security incident response, aimed to help security analysts and DFIR teams.
 
+* [Awesome Command & Control (C2)](https://github.com/loseys/awesome-c2-frameworks) - A curated list of awesome Command and Control (C2) frameworks, tools and resources for Red Team operations and adversary simulation.
+
 ## Threat databases and alerts
 
 * [ATT&CK](https://attack.mitre.org/) - ATT&CK is a knowledge base of cyber adversary behavior and taxonomy for adversarial actions across their lifecycle. ATT&CK has two parts: ATT&CK for Enterprise, which covers behavior against enterprise IT networks and cloud, and ATT&CK for Mobile, which focuses on behavior against mobile devices.
