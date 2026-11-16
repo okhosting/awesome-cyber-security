@@ -295,6 +295,7 @@ A curated list of cyber security resources and tools.
 ## Honeypots and deception
 
 * [honeypot-auditor](https://github.com/mziqudhd92/honeypot-auditor) - Multi-protocol CLI that fingerprints whether an authorized target behaves like a low-interaction honeypot using auth/state probes and a weighted score.
+* [Whatoblock](https://whatoblock.com/) - Threat intelligence from a global honeypot network (229 sensors in 40 countries): IPs seen scanning or attacking the internet, the ports and services they target, botnet attack chains, and blocklist feeds for firewalls. Free tier available.
 
 ## Contributions welcome
 
