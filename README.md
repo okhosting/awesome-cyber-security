@@ -83,6 +83,8 @@ A curated list of cyber security resources and tools.
 
 * [End user device (EUD) security guidance](https://www.ncsc.gov.uk/collection/end-user-device-security/) - Guidance for organisations deploying a range of end user device platforms as part of a remote working solution
 
+* [Remote Support Is Temporary Privileged Access, Not Screen Sharing](https://blueradius.io/remote-support-temporary-privileged-access) - Vendor-neutral guidance for scoping remote-support authority, using named operator identities, preserving control-plane, relay, and endpoint evidence, and revoking temporary access after a session.
+
 * [Políticas de seguridad para la pyme](https://www.incibe.es/protege-tu-empresa/herramientas/politicas) - Para ayudar a la pyme a poner en marcha los procesos internos con los que mejorar su ciberseguridad presentamos una serie de documentos que hemos denominado como «políticas de seguridad».
 
 * [SecOps Bit By Bit: Roadmap for First-Time CTOs and Startup Founders](https://leanpub.com/secops-bit-by-bit) - This book is a compilation of best practices for evaluating weak spots in a product and company, and fostering a robust security culture.
