@@ -76,6 +76,7 @@ A curated list of cyber security resources and tools.
 * [Breach House](https://breach.house/) - Free, open search over ransomware leaks, stealer logs, traditional breaches and leads, by company, domain or email.
 
 * [BreachDetect](https://breachdetect.net/) - Stealer-log and data breach search and monitoring for companies, including stolen session cookies. Free domain check with no signup.
+* [Agentic Attack Detections](https://github.com/ThreatDefence/agentic-attack-detections) - Open-source detection rules, hunting queries and indicator feeds for AI agent attack frameworks such as ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI and Strix, in KQL, Sigma, Suricata, Zeek, YARA and STIX 2.1.
 
 ## Security advice and guidance
 
