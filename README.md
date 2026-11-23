@@ -281,6 +281,7 @@ A curated list of cyber security resources and tools.
 * [CTI Academy](https://ctiacademy.io) - Cyber Threat Intelligence Training for Beginners
 * [soc-skills](https://szzxli.github.io/soc-skills/web/) - Free, open-source (MIT) SOC skill gap analysis that runs in the browser: a 16-question self-assessment across 8 domains, a public rubric anchored to NIST NICE work roles, optional bring-your-own-key AI grading of your lab evidence, and "where to learn this" links for each gap.
 * [pwn.guide](https://pwn.guide) - Hands-on ethical hacking tutorials on web, wireless and hardware hacking, forensics and defense, about 60 of them free; paid plans add CompTIA Security+ and PenTest+ training
+* [SOC Home Lab](https://szzxli.github.io/soc-home-lab/web/) - Free, open-source (MIT) hands-on SOC labs on synthetic data: an in-browser CloudTrail IOC analyzer demo, phishing header analysis, ELF binary triage, CISA KEV threat-hunting packs, and an optional Terraform AWS mini-SOC.
 
 ## Certifications
 
