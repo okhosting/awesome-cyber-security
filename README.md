@@ -168,6 +168,7 @@ A curated list of cyber security resources and tools.
 * [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) - Archive of system prompts and tool-call schemas captured from shipped AI coding agents and assistants, with the capture method recorded per artifact, as reference material for prompt-injection and agent-permission audits.
 * [GuardBee](https://app.guardbee.ai) - AI security platform that scans websites, APIs, and AI applications for issues such as OWASP Top 10 flaws, SSL/TLS misconfigurations, exposed secrets, and prompt-injection risk, delivering modular, actionable reports.
 * [SafetyCard](https://github.com/safetycard/safetycard) - Safety-check MCP servers and AI agents against the OWASP agentic Top 10, and get the safest setup to run them. Open-source plugin for Claude Code and Codex.
+* [CybeDefend](https://github.com/CybeDefend/cybedefend) - Open-source security audit run from a coding agent: Opengrep, Trivy, Gitleaks and zizmor first, then the agent hunts business logic and access-rights flaws and proves each one with an exploit written as a test. Self-hosted dashboard, AGPL-3.0.
 
 ## Secure web application tools
 
