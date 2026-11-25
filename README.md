@@ -173,6 +173,7 @@ A curated list of cyber security resources and tools.
 
 ## Secure web application tools
 
+* [MyIPScan Domain Security Scan](https://myipscan.net/tools/domain-security-scan/) - Free scan of a public domain for SSL, CAA, HTTP security headers, SPF and DMARC in one report; no sign-up required.
 * [NoCert](https://nocert.io/) - TLS certificate inventory and expiry alerts for public services and private infrastructure. Free plan for professional use with up to 50 active certificates.
 * [DomScan](https://domscan.net/tools/security) - Domain reconnaissance for DNS, WHOIS/RDAP, TLS, subdomains, reputation, redirects, and typosquatting.
 * [Profundis](https://profundis.io/) - Find subdomains and investigate related infrastructure through indexed DNS, WHOIS, hosts and TLS certificates. Free web tier; API access requires a paid plan or credit pack.
