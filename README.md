@@ -77,6 +77,7 @@ A curated list of cyber security resources and tools.
 
 * [BreachDetect](https://breachdetect.net/) - Stealer-log and data breach search and monitoring for companies, including stolen session cookies. Free domain check with no signup.
 * [Agentic Attack Detections](https://github.com/ThreatDefence/agentic-attack-detections) - Open-source detection rules, hunting queries and indicator feeds for AI agent attack frameworks such as ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI and Strix, in KQL, Sigma, Suricata, Zeek, YARA and STIX 2.1.
+* [Stealer Fingerprints](https://github.com/cystack/stealer-fingerprints) - Public research catalog of observed information-stealer log formats, with representative scrubbed samples, family context, recognition anchors, ATT&CK mappings, and a local matcher for exported logs.
 
 ## Security advice and guidance
 
