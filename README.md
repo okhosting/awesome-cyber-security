@@ -170,6 +170,7 @@ A curated list of cyber security resources and tools.
 * [GuardBee](https://app.guardbee.ai) - AI security platform that scans websites, APIs, and AI applications for issues such as OWASP Top 10 flaws, SSL/TLS misconfigurations, exposed secrets, and prompt-injection risk, delivering modular, actionable reports.
 * [SafetyCard](https://github.com/safetycard/safetycard) - Safety-check MCP servers and AI agents against the OWASP agentic Top 10, and get the safest setup to run them. Open-source plugin for Claude Code and Codex.
 * [CybeDefend](https://github.com/CybeDefend/cybedefend) - Open-source security audit run from a coding agent: Opengrep, Trivy, Gitleaks and zizmor first, then the agent hunts business logic and access-rights flaws and proves each one with an exploit written as a test. Self-hosted dashboard, AGPL-3.0.
+* [Ironheights](https://github.com/Frank-Masciopinto/ironheights) - Open-source, rule-based scanner that checks AI agent skills before install for prompt injection, credential reads, remote-exec installs and persistence; runs locally as a CLI, MCP server or bundled skill. Apache-2.0, early-stage.
 
 ## Secure web application tools
 
