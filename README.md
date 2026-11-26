@@ -189,7 +189,7 @@ A curated list of cyber security resources and tools.
 * [ScanMalware](https://scanmalware.com/) - Free URL scanner that runs a link in isolated analysis environments, records what the page loads and runs, and checks it against YARA, antivirus and IDS rules, threat feeds and AI for a phishing or malware verdict with the evidence. Every public scan is searchable by domain, IP, ASN, JARM or favicon hash.
 * [Security Headers Checker](https://penetrationtestservices.com/tools/security-headers-checker/) - Free web tool that grades the HTTP security headers of a public page; no sign-up required.
 * [Madsalt Supabase Checker](https://madsalt.tech/tools/supabase-security-check/) - Free read-only scan of a Supabase project: 46 checks on RLS, grants, functions, auth and storage settings, with fix SQL for each finding; never reads table rows.
-* [OmniForge VibeShield](https://vibe-checker.appwrite.network/) - Free read-only web and AI app security scanner (116+ checks across TLS 443, CNAME takeover, 24 JS bundles for 52 secret patterns, 28 sensitive endpoint probes, Supabase RLS and Firebase rules, and CSP/header grading); no sign-up required, with optional paid remediation packs and an MIT CLI/MCP companion.
+* [OmniForge VibeShield](https://shipbastion.com/) - Free read-only web and AI app security scanner (116+ checks across TLS 443, CNAME takeover, 24 JS bundles for 52 secret patterns, 28 sensitive endpoint probes, Supabase RLS and Firebase rules, and CSP/header grading); no sign-up required, with optional paid remediation packs and an MIT CLI/MCP companion.
 
 ## Supply chain and dependency security
 
