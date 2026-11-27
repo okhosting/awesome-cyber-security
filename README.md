@@ -210,6 +210,7 @@ A curated list of cyber security resources and tools.
 * [Hardenize](https://www.hardenize.com/) - Assesses domain, DNS, TLS, certificate, and email security configurations.
 * [Sucuri SiteCheck](https://sitecheck.sucuri.net/) - Online website malware and security scanner.
 * [WebCheck](https://web-check.xyz/) - Online tool for website reconnaissance and security analysis.
+* [sentinel-lint](https://github.com/draarivpatel-ui/sentinel-lint) - Zero-dependency security policy linter with SARIF 2.1.0 output for repositories, GitHub Actions workflows and MCP configurations.
 
 ## Secure Software Development (OWASP)
 
